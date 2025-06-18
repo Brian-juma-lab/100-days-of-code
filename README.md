@@ -1,4 +1,4 @@
-# 💯 100 Days of Code Challenge — Day 2
+# 💯 100 Days of Code Challenge 
 
 Welcome to my 100 Days of Code journey! 🚀  
 Every day, I’m committing to code and share at least one project, script, or notebook publicly. This challenge is all about consistency, learning, and growth.
