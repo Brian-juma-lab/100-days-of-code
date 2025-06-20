@@ -13,16 +13,12 @@ Every day, I’m committing to code and share at least one project, script, or n
 
 ---
 
-## 📅 My Progress
-
-| Day | Project                   | Description                                                                 |
-|-----|---------------------------|-----------------------------------------------------------------------------|
-| 1   | ARIMA Forecast            | Built a time series forecasting model on Safaricom stock data using ARIMA. |
-| 2   | Health Cost Prediction    | Developed regression models to predict inpatient medical costs.            |
-| 3   | Underwriting Classification | Created a machine learning model to classify insurance applicants into Low, Medium, or High underwriting risk using Random Forest and SMOTE. |
-|
----
-
+📅 My Progress
+Day	Project	Description
+1	ARIMA Forecast	Built a time series forecasting model on Safaricom stock data using ARIMA.
+2	Health Cost Prediction	Developed regression models to predict inpatient medical costs.
+3	Underwriting Risk Classification	Built a classification model to assess insurance risk using health data.
+4	Turing Challenge Prep CLI	Created a Python CLI with 3 interactive coding problems to prep for Turing.
 ## 📌 Why I’m Doing This
 
 I believe that consistency beats intensity. By coding every day:
